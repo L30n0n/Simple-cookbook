@@ -1,0 +1,12 @@
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\bin\Debug\net6.0\Cookbook.Domain.deps.json
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\bin\Debug\net6.0\Cookbook.Domain.dll
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\bin\Debug\net6.0\Cookbook.Domain.pdb
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\Cookbook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\Cookbook.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\Cookbook.Domain.AssemblyInfo.cs
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\Cookbook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\Cookbook.Domain.sourcelink.json
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\Cookbook.Domain.dll
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\refint\Cookbook.Domain.dll
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\Cookbook.Domain.pdb
+C:\Users\Asus\Source\Repos\CookbookWPFgit\Cookbook.Domain\obj\Debug\net6.0\ref\Cookbook.Domain.dll
